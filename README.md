@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**MohamedElso/MohamedElso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 About Me
 
-Here are some ideas to get you started:
+🔭 Currently working on Cloud projects across AWS, GCP, and Azure, focusing on Architecture, DevOps and DataOps implementations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Learning and experimenting with Machine Learning and Artificial Intelligence.
+
+🤝 Always open to collaborating on DevOps and Cloud Architecture initiatives.
+
+🤖 Looking to connect with others passionate about AI/ML to exchange ideas and grow.
+
+💬 Ask me anything about Development, Cloud Platforms, Architecture Design, DevOps, and SysOps.
+
+📫 Reach me here on GitHub, or connect with me:
+
+💼 LinkedIn
+https://www.linkedin.com/in/mohamedelsodany/
+
